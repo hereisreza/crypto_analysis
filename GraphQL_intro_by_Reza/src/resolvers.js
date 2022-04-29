@@ -1,4 +1,3 @@
-//import * as res from "./db";
 import {res} from "./db";
 
 const resolvers = {

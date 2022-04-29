@@ -16,7 +16,3 @@ async function main(name) {
 }
 
 export let res = main;
-//export let res = [
-//    { _id: 1, name: "John Doe", address: "john@gmail.com" },
-//    { _id: 2, name: "Jane Doe", address: "jane@gmail.com" }
-//];
