@@ -1,1 +1,1 @@
-"# Crypto Analyse. An educational approach." 
+"# Crypto Analysis. An educational approach." 
