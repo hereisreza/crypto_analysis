@@ -3,11 +3,8 @@ import {res} from "./db";
 
 const resolvers = {
   Query: {
-    user: (parent, { id }, context, info) => {
-      return res(id);
-    },
-    users: (parent, args, context, info) => {
-      return res(1);
+    pair: (parent, { name }, context, info) => {
+      return res(name);
     }
   }
 };
